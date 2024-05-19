@@ -1,4 +1,4 @@
-package twosum
+package arraysandhashing
 
 import "sort"
 
